@@ -1,0 +1,551 @@
+#,Club,Competition,Expenditure,Arrivals,Income,Departures,Balance,Year
+1,Paris Saint-Germain,Ligue 1,€151.00m,11,€4.75m,15,€-146.25m,2012
+2,Chelsea FC,Premier League,€109.70m,29,€25.45m,28,€-84.25m,2012
+3,Zenit St. Petersburg,Premier Liga,€88.76m,9,€1.75m,8,€-87.01m,2012
+4,FC Internazionale,Serie A,€76.55m,48,€63.30m,45,€-13.25m,2012
+5,Manchester United,Premier League,€76.45m,18,€9.65m,15,€-66.80m,2012
+6,Tottenham Hotspur,Premier League,€73.25m,30,€72.78m,34,€-470k,2012
+7,Juventus FC,Serie A,€72.80m,47,€23.30m,43,€-49.50m,2012
+8,Liverpool FC,Premier League,€70.60m,19,€10.45m,18,€-60.15m,2012
+9,Bayern Munich,Bundesliga,€70.30m,10,€500k,7,€-69.80m,2012
+10,Anzhi Makhachkala ( -2022),Premier Liga,€67.90m,13,€16.00m,16,€-51.90m,2012
+11,Manchester City,Premier League,€61.95m,24,€44.30m,26,€-17.65m,2012
+12,AC Milan,Serie A,€59.60m,44,€88.50m,53,€28.90m,2012
+13,Arsenal FC,Premier League,€56.00m,18,€65.85m,19,€9.85m,2012
+14,Queens Park Rangers,Premier League,€50.35m,38,€4.51m,46,€-45.84m,2012
+15,AS Roma,Serie A,€44.17m,46,€21.56m,45,€-22.60m,2012
+16,Southampton FC,Premier League,€41.50m,29,-,25,€-41.50m,2012
+17,Dynamo Kyiv,Premier Liga,€40.78m,16,€9.30m,20,€-31.48m,2012
+18,ACF Fiorentina,Serie A,€40.77m,38,€33.40m,39,€-7.37m,2012
+19,Sport Club Corinthians Paulista,Série A,€39.33m,45,€21.01m,49,€-18.32m,2012
+20,Real Madrid,LaLiga,€38.50m,8,€33.50m,8,€-5.00m,2012
+21,Sunderland AFC,Premier League,€38.30m,26,€14.83m,30,€-23.48m,2012
+22,Fenerbahce,Süper Lig,€33.90m,13,€4.00m,12,€-29.90m,2012
+23,Borussia Mönchengladbach,Bundesliga,€33.40m,13,€24.05m,12,€-9.35m,2012
+24,FC Barcelona,LaLiga,€33.00m,7,€500k,5,€-32.50m,2012
+25,Spartak Moscow,Premier Liga,€32.20m,15,€5.60m,13,€-26.60m,2012
+26,Galatasaray,Süper Lig,€32.05m,19,€3.89m,19,€-28.16m,2012
+27,Rubin Kazan,Premier Liga,€32.00m,17,€4.50m,16,€-27.50m,2012
+28,Newcastle United,Premier League,€31.97m,21,€14.80m,19,€-17.17m,2012
+29,Udinese Calcio,Serie A,€31.40m,52,€60.95m,57,€29.55m,2012
+30,SSC Napoli,Serie A,€31.05m,29,€34.85m,28,€3.80m,2012
+31,Parma FC,Serie A,€29.95m,110,€19.55m,105,€-10.40m,2012
+32,SL Benfica,Liga Portugal,€29.00m,39,€75.73m,38,€46.73m,2012
+33,Aston Villa,Premier League,€27.83m,18,€3.20m,12,€-24.63m,2012
+34,VfL Wolfsburg,Bundesliga,€27.10m,21,€21.85m,28,€-5.25m,2012
+35,Hamburger SV,Bundesliga,€27.00m,11,€9.60m,17,€-17.40m,2012
+36,Genoa CFC,Serie A,€26.93m,74,€78.25m,72,€51.32m,2012
+37,Borussia Dortmund,Bundesliga,€26.65m,12,€34.00m,12,€7.35m,2012
+38,TSG 1899 Hoffenheim,Bundesliga,€26.30m,28,€20.25m,21,€-6.05m,2012
+39,US Palermo,Serie A,€26.00m,43,€24.18m,44,€-1.83m,2012
+40,Torino FC,Serie A,€24.98m,29,€4.38m,32,€-20.60m,2012
+41,AS Monaco,Ligue 2,€24.65m,25,€3.50m,30,€-21.15m,2012
+42,Shakhtar Donetsk,Premier Liga,€24.24m,14,€38.50m,16,€14.26m,2012
+43,West Ham United,Premier League,€23.90m,24,€5.05m,28,€-18.85m,2012
+44,Stoke City,Premier League,€23.68m,23,€640k,24,€-23.04m,2012
+45,Valencia CF,LaLiga,€23.20m,10,€30.00m,14,€6.80m,2012
+46,CSKA Moscow,Premier Liga,€22.70m,8,-,8,€-22.70m,2012
+47,Guangzhou Evergrande,Super League,€22.50m,17,€1.44m,17,€-21.06m,2012
+48,LOSC Lille,Ligue 1,€22.50m,13,€41.20m,17,€18.70m,2012
+49,Everton FC,Premier League,€21.65m,12,€18.75m,13,€-2.90m,2012
+50,UC Sampdoria,Serie A,€21.00m,48,€6.10m,47,€-14.90m,2012
+1,Real Madrid,LaLiga,€175.50m,10,€113.50m,10,€-62.00m,2013
+2,AS Monaco,Ligue 1,€160.70m,28,€5.55m,30,€-155.15m,2013
+3,Paris Saint-Germain,Ligue 1,€135.90m,18,€26.50m,17,€-109.40m,2013
+4,Chelsea FC,Premier League,€130.35m,38,€77.93m,36,€-52.42m,2013
+5,Tottenham Hotspur,Premier League,€122.55m,30,€138.40m,28,€15.85m,2013
+6,Manchester City,Premier League,€115.50m,16,€11.30m,18,€-104.20m,2013
+7,SSC Napoli,Serie A,€107.45m,40,€74.20m,39,€-33.25m,2013
+8,FC Barcelona,LaLiga,€101.00m,9,€28.10m,7,€-72.90m,2013
+9,Manchester United,Premier League,€77.13m,18,€1.80m,20,€-75.33m,2013
+10,AS Roma,Serie A,€75.39m,44,€121.39m,49,€46.00m,2013
+11,Shakhtar Donetsk,Premier Liga,€71.00m,18,€67.50m,17,€-3.50m,2013
+12,Dinamo Moscow,Premier Liga,€67.90m,23,€19.00m,21,€-48.90m,2013
+13,Bayern Munich,Bundesliga,€62.00m,8,€40.00m,7,€-22.00m,2013
+14,Anzhi Makhachkala ( -2022),Premier Liga,€60.40m,32,€157.85m,28,€97.45m,2013
+15,FC Internazionale,Serie A,€59.89m,39,€11.00m,42,€-48.89m,2013
+16,Liverpool FC,Premier League,€58.10m,18,€32.50m,23,€-25.60m,2013
+17,SL Benfica,Liga Portugal,€55.75m,29,€45.70m,31,€-10.05m,2013
+18,ACF Fiorentina,Serie A,€53.30m,31,€41.00m,32,€-12.30m,2013
+19,Borussia Dortmund,Bundesliga,€52.60m,13,€47.38m,11,€-5.23m,2013
+20,VfL Wolfsburg,Bundesliga,€50.60m,28,€16.05m,30,€-34.55m,2013
+21,Arsenal FC,Premier League,€49.25m,21,€12.15m,23,€-37.10m,2013
+22,US Sassuolo,Serie A,€46.50m,36,€5.00m,29,€-41.50m,2013
+23,Dynamo Kyiv,Premier Liga,€46.50m,20,€6.30m,19,€-40.20m,2013
+24,Cardiff City,Premier League,€45.82m,32,€3.74m,29,€-42.08m,2013
+25,Juventus FC,Serie A,€45.50m,41,€69.09m,45,€23.59m,2013
+26,Galatasaray,Süper Lig,€44.84m,22,€1.80m,20,€-43.04m,2013
+27,AC Milan,Serie A,€43.13m,50,€17.40m,48,€-25.73m,2013
+28,Zenit St. Petersburg,Premier Liga,€39.80m,11,€20.50m,12,€-19.30m,2013
+29,Southampton FC,Premier League,€39.60m,15,€4.20m,23,€-35.40m,2013
+30,Olympique Marseille,Ligue 1,€39.40m,13,€1.05m,15,€-38.35m,2013
+31,Atlético de Madrid,LaLiga,€36.10m,20,€70.10m,18,€34.01m,2013
+32,Sevilla FC,LaLiga,€35.30m,27,€90.98m,28,€55.68m,2013
+33,FC Porto,Liga Portugal,€34.82m,20,€81.42m,18,€46.60m,2013
+34,Spartak Moscow,Premier Liga,€34.55m,14,€17.30m,20,€-17.25m,2013
+35,Sunderland AFC,Premier League,€33.91m,36,€22.38m,33,€-11.53m,2013
+36,Crystal Palace,Premier League,€33.00m,42,-,32,€-33.00m,2013
+37,Shandong Luneng Taishan,Super League,€32.75m,17,€2.82m,19,€-29.93m,2013
+38,Lokomotiv Moscow,Premier Liga,€32.00m,15,€22.00m,14,€-10.00m,2013
+39,Everton FC,Premier League,€31.80m,19,€46.10m,19,€14.30m,2013
+40,Hull City,Premier League,€31.10m,32,€880k,32,€-30.22m,2013
+41,Fenerbahce,Süper Lig,€30.25m,10,€5.15m,14,€-25.10m,2013
+42,Norwich City,Premier League,€30.05m,21,€4.84m,21,€-25.22m,2013
+43,Fulham FC,Premier League,€29.30m,33,€4.15m,29,€-25.15m,2013
+44,SS Lazio,Serie A,€26.83m,27,€28.45m,26,€1.62m,2013
+45,Swansea City,Premier League,€26.61m,24,-,17,€-26.61m,2013
+46,FC Schalke 04,Bundesliga,€26.05m,13,€8.10m,14,€-17.95m,2013
+47,Rubin Kazan,Premier Liga,€25.10m,21,€30.45m,18,€5.35m,2013
+48,Bayer 04 Leverkusen,Bundesliga,€24.98m,18,€35.57m,16,€10.60m,2013
+49,Al-Jazira (Abu Dhabi),UAE Pro League,€24.50m,12,-,13,€-24.50m,2013
+50,Udinese Calcio,Serie A,€24.41m,59,€47.70m,54,€23.29m,2013
+1,Manchester United,Premier League,€195.35m,26,€46.70m,27,€-148.65m,2014
+2,FC Barcelona,LaLiga,€166.72m,13,€81.80m,15,€-84.92m,2014
+3,Liverpool FC,Premier League,€151.43m,25,€99.27m,21,€-52.16m,2014
+4,Chelsea FC,Premier League,€137.70m,42,€142.81m,48,€5.11m,2014
+5,Real Madrid,LaLiga,€126.00m,8,€112.10m,8,€-13.90m,2014
+6,Atlético de Madrid,LaLiga,€120.35m,25,€89.30m,24,€-31.05m,2014
+7,Arsenal FC,Premier League,€118.98m,18,€27.80m,22,€-91.18m,2014
+8,Manchester City,Premier League,€102.80m,14,€30.30m,16,€-72.50m,2014
+9,AS Roma,Serie A,€100.41m,47,€41.60m,43,€-58.81m,2014
+10,Southampton FC,Premier League,€96.00m,25,€123.83m,21,€27.83m,2014
+11,Borussia Dortmund,Bundesliga,€65.20m,9,€4.80m,8,€-60.40m,2014
+12,Juventus FC,Serie A,€59.30m,62,€24.41m,61,€-34.89m,2014
+13,Valencia CF,LaLiga,€55.05m,23,€55.45m,25,€400k,2014
+14,Bayern Munich,Bundesliga,€53.40m,9,€48.70m,10,€-4.70m,2014
+15,FC Porto,Liga Portugal,€53.25m,30,€95.96m,27,€42.71m,2014
+16,Paris Saint-Germain,Ligue 1,€49.50m,9,€2.20m,8,€-47.30m,2014
+17,Tottenham Hotspur,Premier League,€48.48m,20,€44.15m,24,€-4.33m,2014
+18,Hull City,Premier League,€48.22m,30,€18.70m,28,€-29.52m,2014
+19,Guangzhou Evergrande Taobao,Super League,€45.20m,29,€5.90m,33,€-39.30m,2014
+20,VfL Wolfsburg,Bundesliga,€45.05m,15,€6.25m,13,€-38.80m,2014
+21,Newcastle United,Premier League,€45.02m,23,€23.87m,25,€-21.15m,2014
+22,Queens Park Rangers,Premier League,€43.54m,35,€26.04m,35,€-17.50m,2014
+23,Swansea City,Premier League,€41.53m,24,€61.90m,27,€20.37m,2014
+24,Everton FC,Premier League,€40.16m,17,€1.90m,15,€-38.26m,2014
+25,AS Monaco,Ligue 1,€39.75m,26,€89.12m,28,€49.37m,2014
+26,Bayer 04 Leverkusen,Bundesliga,€39.31m,20,€18.35m,25,€-20.96m,2014
+27,SL Benfica,Liga Portugal,€38.65m,37,€104.65m,34,€66.00m,2014
+28,Al-Arabi SC,Stars League,€37.50m,13,€815k,14,€-36.69m,2014
+29,Hamburger SV,Bundesliga,€35.80m,20,€23.90m,19,€-11.90m,2014
+30,Trabzonspor,Süper Lig,€35.47m,38,€12.59m,36,€-22.88m,2014
+31,West Ham United,Premier League,€35.15m,25,€4.40m,26,€-30.75m,2014
+32,SSC Napoli,Serie A,€34.80m,40,€20.45m,39,€-14.35m,2014
+33,Al-Ahli Dubai Club (- 2017),UAE Pro League,€33.01m,9,-,15,€-33.01m,2014
+34,Crystal Palace,Premier League,€31.22m,41,€2.87m,39,€-28.35m,2014
+35,Udinese Calcio,Serie A,€29.20m,54,€25.40m,59,€-3.80m,2014
+36,CF América,Liga MX Clausura,€28.49m,32,€12.30m,34,€-16.19m,2014
+37,Olympiacos Piraeus,Super League 1,€25.88m,57,€28.50m,53,€2.62m,2014
+38,West Bromwich Albion,Premier League,€24.88m,16,€2.30m,20,€-22.58m,2014
+39,UC Sampdoria,Serie A,€24.35m,57,€26.52m,52,€2.17m,2014
+40,RB Leipzig,2. Bundesliga,€23.35m,20,-,17,€-23.35m,2014
+41,Torino FC,Serie A,€23.20m,38,€33.86m,40,€10.66m,2014
+42,Leicester City,Premier League,€22.86m,30,-,23,€-22.86m,2014
+43,Zenit St. Petersburg,Premier Liga,€22.80m,9,€1.00m,8,€-21.80m,2014
+44,Cagliari Calcio,Serie A,€22.60m,29,€21.93m,28,€-675k,2014
+45,Sunderland AFC,Premier League,€22.52m,21,€7.25m,31,€-15.27m,2014
+46,Hellas Verona,Serie A,€22.26m,59,€30.25m,57,€7.99m,2014
+47,CF Monterrey,Liga MX Clausura,€21.47m,23,€6.27m,27,€-15.20m,2014
+48,Sevilla FC,LaLiga,€20.95m,25,€50.55m,22,€29.60m,2014
+49,Olympique Marseille,Ligue 1,€20.50m,16,€17.50m,16,€-3.00m,2014
+50,Norwich City,Championship,€20.34m,26,€19.38m,27,€-963k,2014
+1,Manchester City,Premier League,€208.47m,22,€67.44m,25,€-141.03m,2015
+2,Juventus FC,Serie A,€185.50m,84,€81.28m,83,€-104.22m,2015
+3,Manchester United,Premier League,€156.00m,22,€100.67m,20,€-55.33m,2015
+4,Valencia CF,LaLiga,€143.90m,20,€50.00m,16,€-93.90m,2015
+5,Liverpool FC,Premier League,€126.50m,24,€90.55m,24,€-35.95m,2015
+6,Atlético de Madrid,LaLiga,€119.00m,22,€152.00m,23,€33.00m,2015
+7,Paris Saint-Germain,Ligue 1,€116.10m,9,€22.90m,11,€-93.20m,2015
+8,Newcastle United,Premier League,€107.91m,26,€5.63m,23,€-102.28m,2015
+9,Inter Milan,Serie A,€102.45m,60,€115.32m,72,€12.87m,2015
+10,AC Milan,Serie A,€102.28m,50,€11.16m,56,€-91.12m,2015
+11,Jiangsu Suning,Super League,€101.10m,14,€9.53m,14,€-91.58m,2015
+12,AS Monaco,Ligue 1,€101.00m,30,€175.40m,29,€74.40m,2015
+13,Chelsea FC,Premier League,€96.50m,39,€87.49m,37,€-9.01m,2015
+14,Real Madrid,LaLiga,€92.90m,12,€31.65m,12,€-61.25m,2015
+15,Bayern Munich,Bundesliga,€90.75m,10,€33.00m,10,€-57.75m,2015
+16,Watford FC,Premier League,€82.80m,33,€9.75m,30,€-73.05m,2015
+17,Hebei China Fortune,Super League,€77.88m,16,-,14,€-77.88m,2015
+18,Guangzhou Evergrande Taobao,Super League,€73.15m,24,€30.45m,24,€-42.70m,2015
+19,Tottenham Hotspur,Premier League,€71.00m,11,€87.25m,21,€16.25m,2015
+20,VfL Wolfsburg,Bundesliga,€68.10m,13,€111.30m,12,€43.20m,2015
+21,Aston Villa,Premier League,€66.55m,29,€64.70m,32,€-1.85m,2015
+22,Sunderland AFC,Premier League,€66.05m,29,€11.00m,25,€-55.05m,2015
+23,AS Roma,Serie A,€60.85m,61,€134.25m,62,€73.40m,2015
+24,Southampton FC,Premier League,€60.10m,16,€52.70m,17,€-7.40m,2015
+25,FC Porto,Liga Portugal,€59.50m,36,€140.65m,39,€81.15m,2015
+26,Bayer 04 Leverkusen,Bundesliga,€58.00m,23,€63.25m,18,€5.25m,2015
+27,AFC Bournemouth,Premier League,€55.11m,36,€650k,33,€-54.46m,2015
+28,Stoke City,Premier League,€53.65m,13,€23.20m,14,€-30.45m,2015
+29,West Ham United,Premier League,€52.70m,25,€18.52m,26,€-34.19m,2015
+30,FC Barcelona,LaLiga,€51.00m,11,€38.30m,10,€-12.70m,2015
+31,Norwich City,Premier League,€50.50m,33,€21.49m,30,€-29.01m,2015
+32,Leicester City,Premier League,€49.90m,25,€9.45m,32,€-40.45m,2015
+33,Everton FC,Premier League,€48.20m,18,€11.00m,17,€-37.20m,2015
+34,Shanghai Greenland Shenhua,Super League,€48.08m,21,-,21,€-48.08m,2015
+35,Villarreal CF,LaLiga,€47.20m,19,€37.56m,18,€-9.64m,2015
+36,Sevilla FC,LaLiga,€44.00m,23,€61.45m,21,€17.45m,2015
+37,West Bromwich Albion,Premier League,€42.90m,12,€12.92m,13,€-29.98m,2015
+38,SSC Napoli,Serie A,€42.70m,34,€18.29m,36,€-24.41m,2015
+39,Fenerbahce,Süper Lig,€42.68m,21,€20.65m,18,€-22.03m,2015
+40,Olympique Lyon,Ligue 1,€41.10m,11,€26.80m,13,€-14.30m,2015
+41,Tianjin Quanjian,League One,€39.80m,17,-,19,€-39.80m,2015
+42,Borussia Mönchengladbach,Bundesliga,€38.00m,11,€15.70m,10,€-22.30m,2015
+43,FC Schalke 04,Bundesliga,€37.10m,16,€57.20m,17,€20.10m,2015
+44,SL Benfica,Liga Portugal,€35.35m,35,€104.30m,35,€68.95m,2015
+45,UC Sampdoria,Serie A,€34.67m,59,€16.82m,59,€-17.85m,2015
+46,Derby County,Championship,€34.06m,24,-,21,€-34.06m,2015
+47,Middlesbrough FC,Championship,€33.40m,28,€7.10m,30,€-26.30m,2015
+48,Al-Ahli Dubai Club (- 2017),UAE Pro League,€31.70m,8,-,13,€-31.70m,2015
+49,SS Lazio,Serie A,€31.25m,35,€2.37m,37,€-28.88m,2015
+50,US Sassuolo,Serie A,€30.70m,21,€25.00m,28,€-5.70m,2015
+1,Manchester City,Premier League,€216.25m,31,€35.35m,25,€-180.90m,2016
+2,Manchester United,Premier League,€185.00m,9,€47.25m,14,€-137.75m,2016
+3,Juventus FC,Serie A,€170.23m,79,€176.93m,82,€6.70m,2016
+4,Inter Milan,Serie A,€164.63m,60,€18.50m,56,€-146.13m,2016
+5,Borussia Dortmund,Bundesliga,€141.10m,12,€111.00m,8,€-30.10m,2016
+6,Paris Saint-Germain,Ligue 1,€134.50m,16,€59.80m,15,€-74.70m,2016
+7,Chelsea FC,Premier League,€132.80m,27,€108.90m,30,€-23.90m,2016
+8,FC Barcelona,LaLiga,€124.75m,11,€33.80m,13,€-90.95m,2016
+9,Shanghai SIPG,Super League,€123.30m,18,€4.40m,17,€-118.90m,2016
+10,Arsenal FC,Premier League,€113.00m,11,€10.35m,12,€-102.65m,2016
+11,AS Roma,Serie A,€102.50m,55,€43.43m,60,€-59.07m,2016
+12,Crystal Palace,Premier League,€101.20m,22,€50.20m,24,€-51.00m,2016
+13,SSC Napoli,Serie A,€99.09m,39,€116.81m,38,€17.72m,2016
+14,RB Leipzig,Bundesliga,€95.95m,12,€100k,14,€-95.85m,2016
+15,Leicester City,Premier League,€92.10m,17,€66.05m,18,€-26.05m,2016
+16,Everton FC,Premier League,€86.00m,18,€60.80m,19,€-25.20m,2016
+17,Aston Villa,Championship,€85.50m,22,€45.80m,25,€-39.70m,2016
+18,Tottenham Hotspur,Premier League,€83.50m,8,€52.30m,8,€-31.20m,2016
+19,West Ham United,Premier League,€83.50m,22,€41.00m,15,€-42.50m,2016
+20,Sevilla FC,LaLiga,€81.70m,17,€93.45m,19,€11.75m,2016
+21,VfL Wolfsburg,Bundesliga,€81.05m,20,€94.45m,19,€13.40m,2016
+22,Liverpool FC,Premier League,€79.90m,21,€85.38m,19,€5.48m,2016
+23,Atlético de Madrid,LaLiga,€78.80m,22,€44.00m,21,€-34.80m,2016
+24,Hebei China Fortune,Super League,€77.69m,16,-,14,€-77.69m,2016
+25,Tianjin Quanjian,Super League,€74.99m,12,€2.56m,13,€-72.43m,2016
+26,Watford FC,Premier League,€70.45m,29,€58.10m,32,€-12.35m,2016
+27,Bayern Munich,Bundesliga,€70.00m,5,€52.30m,8,€-17.70m,2016
+28,Southampton FC,Premier League,€68.90m,12,€85.05m,9,€16.15m,2016
+29,Newcastle United,Championship,€64.25m,24,€100.88m,26,€36.63m,2016
+30,Bayer 04 Leverkusen,Bundesliga,€63.30m,19,€23.70m,19,€-39.60m,2016
+31,Swansea City,Premier League,€58.10m,21,€49.30m,17,€-8.80m,2016
+32,Villarreal CF,LaLiga,€55.95m,23,€67.25m,22,€11.30m,2016
+33,Olympique Marseille,Ligue 1,€53.00m,26,€81.49m,25,€28.49m,2016
+34,AS Monaco,Ligue 1,€50.50m,25,€18.45m,29,€-32.05m,2016
+35,Middlesbrough FC,Premier League,€47.95m,18,€13.50m,19,€-34.45m,2016
+36,Burnley FC,Premier League,€45.60m,27,€1.20m,26,€-44.40m,2016
+37,Hamburger SV,Bundesliga,€43.95m,18,€8.75m,17,€-35.20m,2016
+38,SL Benfica,Liga Portugal,€43.77m,38,€124.75m,41,€80.98m,2016
+39,FC Schalke 04,Bundesliga,€43.30m,19,€61.30m,15,€18.00m,2016
+40,Stoke City,Premier League,€42.17m,14,€3.80m,13,€-38.37m,2016
+41,Sunderland AFC,Premier League,€41.90m,25,€23.77m,23,€-18.13m,2016
+42,Ajax Amsterdam,Eredivisie,€41.40m,18,€80.30m,16,€38.90m,2016
+43,Borussia Mönchengladbach,Bundesliga,€41.25m,14,€45.10m,10,€3.85m,2016
+44,AFC Bournemouth,Premier League,€40.69m,19,€23.69m,30,€-17.00m,2016
+45,FC Porto,Liga Portugal,€40.65m,35,€15.06m,38,€-25.59m,2016
+46,Hull City,Premier League,€40.00m,25,€28.90m,16,€-11.10m,2016
+47,Rubin Kazan,Premier Liga,€39.69m,29,€7.30m,26,€-32.39m,2016
+48,UC Sampdoria,Serie A,€39.65m,52,€80.70m,54,€41.05m,2016
+49,West Bromwich Albion,Premier League,€37.90m,13,€26.98m,14,€-10.93m,2016
+50,Beijing Guoan,Super League,€36.88m,14,€20.84m,12,€-16.04m,2016
+1,FC Barcelona,LaLiga,€380.10m,13,€232.50m,12,€-147.60m,2017
+2,Manchester City,Premier League,€317.50m,31,€91.35m,32,€-226.15m,2017
+3,Chelsea FC,Premier League,€260.50m,40,€194.60m,31,€-65.90m,2017
+4,Paris Saint-Germain,Ligue 1,€238.00m,11,€98.40m,14,€-139.60m,2017
+5,Everton FC,Premier League,€203.20m,23,€126.38m,20,€-76.82m,2017
+6,Manchester United,Premier League,€198.40m,13,€45.50m,11,€-152.90m,2017
+7,AC Milan,Serie A,€186.48m,35,€39.70m,34,€-146.78m,2017
+8,Juventus FC,Serie A,€177.60m,69,€145.65m,70,€-31.95m,2017
+9,Liverpool FC,Premier League,€173.65m,13,€184.50m,15,€10.85m,2017
+10,Arsenal FC,Premier League,€152.85m,10,€162.00m,16,€9.15m,2017
+11,Inter Milan,Serie A,€137.63m,58,€79.24m,66,€-58.39m,2017
+12,Borussia Dortmund,Bundesliga,€122.59m,15,€275.95m,15,€153.36m,2017
+13,AS Monaco,Ligue 1,€122.40m,25,€199.50m,23,€77.10m,2017
+14,Tottenham Hotspur,Premier League,€121.00m,14,€103.80m,11,€-17.20m,2017
+15,Bayern Munich,Bundesliga,€116.50m,14,€32.25m,11,€-84.25m,2017
+16,Atlético de Madrid,LaLiga,€95.60m,17,€104.00m,21,€8.40m,2017
+17,Zenit St. Petersburg,Premier Liga,€95.00m,17,€16.72m,20,€-78.28m,2017
+18,AS Roma,Serie A,€91.30m,59,€156.50m,59,€65.20m,2017
+19,Leicester City,Premier League,€83.85m,14,€50.10m,13,€-33.75m,2017
+20,ACF Fiorentina,Serie A,€79.50m,45,€93.58m,42,€14.08m,2017
+21,Sevilla FC,LaLiga,€78.05m,17,€81.60m,15,€3.55m,2017
+22,LOSC Lille,Ligue 1,€76.50m,32,€31.10m,30,€-45.40m,2017
+23,Watford FC,Premier League,€73.40m,32,€18.74m,30,€-54.66m,2017
+24,Swansea City,Premier League,€73.39m,21,€81.10m,24,€7.72m,2017
+25,VfL Wolfsburg,Bundesliga,€72.75m,20,€36.00m,21,€-36.75m,2017
+26,Beijing Guoan,Super League,€69.57m,15,€6.60m,16,€-62.97m,2017
+27,SSC Napoli,Serie A,€68.00m,34,€17.45m,33,€-50.55m,2017
+28,Atalanta BC,Serie A,€66.59m,77,€78.04m,80,€11.45m,2017
+29,Brighton & Hove Albion,Premier League,€66.50m,23,€400k,22,€-66.10m,2017
+30,RB Leipzig,Bundesliga,€63.50m,16,€24.54m,14,€-38.96m,2017
+31,Olympique Marseille,Ligue 1,€62.00m,17,€2.75m,21,€-59.25m,2017
+32,Southampton FC,Premier League,€61.25m,12,€98.35m,14,€37.10m,2017
+33,Olympique Lyon,Ligue 1,€58.05m,20,€119.55m,20,€61.50m,2017
+34,Stoke City,Premier League,€57.70m,18,€35.14m,17,€-22.56m,2017
+35,West Ham United,Premier League,€56.80m,15,€69.02m,25,€12.22m,2017
+36,Huddersfield Town,Premier League,€56.75m,22,€6.46m,16,€-50.30m,2017
+37,Middlesbrough FC,Championship,€55.65m,26,€54.30m,29,€-1.35m,2017
+38,Valencia CF,LaLiga,€55.00m,23,€16.55m,23,€-38.45m,2017
+39,Stade Rennais FC,Ligue 1,€53.90m,19,€15.80m,22,€-38.10m,2017
+40,West Bromwich Albion,Premier League,€53.50m,17,€2.05m,11,€-51.45m,2017
+41,Bayer 04 Leverkusen,Bundesliga,€51.00m,14,€91.10m,18,€40.10m,2017
+42,UC Sampdoria,Serie A,€51.00m,41,€71.46m,43,€20.46m,2017
+43,FC Schalke 04,Bundesliga,€49.30m,18,€7.10m,24,€-42.20m,2017
+44,Crystal Palace,Premier League,€48.95m,15,€3.00m,18,€-45.95m,2017
+45,Sporting CP,Liga Portugal,€47.91m,39,€49.80m,35,€1.89m,2017
+46,Newcastle United,Premier League,€46.50m,27,€21.22m,29,€-25.28m,2017
+47,Villarreal CF,LaLiga,€46.10m,17,€68.00m,15,€21.90m,2017
+48,Galatasaray,Süper Lig,€44.80m,22,€36.71m,23,€-8.09m,2017
+49,Dalian Yifang,Super League,€41.07m,10,€1.67m,10,€-39.40m,2017
+50,Real Madrid,LaLiga,€40.50m,9,€132.50m,10,€92.00m,2017
+1,Juventus FC,Serie A,€263.20m,41,€112.54m,35,€-150.66m,2018
+2,Paris Saint-Germain,Ligue 1,€262.00m,21,€114.00m,18,€-148.00m,2018
+3,Chelsea FC,Premier League,€208.80m,30,€83.25m,31,€-125.55m,2018
+4,AC Milan,Serie A,€194.64m,26,€88.10m,28,€-106.54m,2018
+5,Liverpool FC,Premier League,€182.20m,18,€41.32m,21,€-140.88m,2018
+6,Atlético de Madrid,LaLiga,€168.00m,21,€57.90m,19,€-110.10m,2018
+7,AS Roma,Serie A,€166.35m,45,€150.47m,46,€-15.88m,2018
+8,Real Madrid,LaLiga,€164.75m,16,€136.10m,14,€-28.65m,2018
+9,AS Monaco,Ligue 1,€145.85m,37,€367.25m,29,€221.40m,2018
+10,FC Barcelona,LaLiga,€141.10m,19,€146.05m,19,€4.95m,2018
+11,Valencia CF,LaLiga,€129.20m,22,€68.80m,22,€-60.40m,2018
+12,Fulham FC,Premier League,€116.50m,18,€5.35m,11,€-111.15m,2018
+13,Leicester City,Premier League,€114.60m,16,€95.80m,18,€-18.80m,2018
+14,Wolverhampton Wanderers,Premier League,€112.75m,34,€23.30m,46,€-89.45m,2018
+15,West Ham United,Premier League,€100.90m,18,€13.77m,13,€-87.14m,2018
+16,Everton FC,Premier League,€99.80m,19,€28.65m,23,€-71.15m,2018
+17,Inter Milan,Serie A,€97.60m,51,€91.17m,54,€-6.43m,2018
+18,Villarreal CF,LaLiga,€92.90m,24,€54.80m,24,€-38.10m,2018
+19,Guangzhou Evergrande Taobao,Super League,€91.86m,22,€6.72m,24,€-85.14m,2018
+20,AFC Bournemouth,Premier League,€91.60m,14,€20.20m,16,€-71.40m,2018
+21,Borussia Dortmund,Bundesliga,€90.50m,14,€114.20m,17,€23.70m,2018
+22,Brighton & Hove Albion,Premier League,€87.12m,28,€13.62m,29,€-73.50m,2018
+23,Manchester United,Premier League,€82.70m,9,€30.55m,10,€-52.15m,2018
+24,Sevilla FC,LaLiga,€81.05m,20,€93.80m,22,€12.75m,2018
+25,Arsenal FC,Premier League,€80.15m,17,€9.10m,12,€-71.05m,2018
+26,Manchester City,Premier League,€78.59m,19,€57.60m,22,€-20.99m,2018
+27,SSC Napoli,Serie A,€71.00m,31,€100.80m,35,€29.80m,2018
+28,Olympique Marseille,Ligue 1,€66.00m,13,€32.85m,10,€-33.15m,2018
+29,RB Leipzig,Bundesliga,€65.63m,19,€72.75m,17,€7.12m,2018
+30,Stoke City,Championship,€62.90m,22,€30.15m,25,€-32.75m,2018
+31,Southampton FC,Premier League,€62.25m,16,€26.10m,18,€-36.15m,2018
+32,FC Schalke 04,Bundesliga,€62.20m,18,€46.15m,15,€-16.05m,2018
+33,Atalanta BC,Serie A,€60.80m,77,€25.06m,80,€-35.74m,2018
+34,ACF Fiorentina,Serie A,€60.77m,42,€43.39m,43,€-17.38m,2018
+35,Newcastle United,Premier League,€59.75m,22,€51.05m,23,€-8.70m,2018
+36,Genoa CFC,Serie A,€59.07m,70,€84.36m,72,€25.29m,2018
+37,UC Sampdoria,Serie A,€56.45m,45,€90.12m,44,€33.67m,2018
+38,US Sassuolo,Serie A,€53.97m,42,€50.38m,40,€-3.59m,2018
+39,Torino FC,Serie A,€53.15m,48,€17.20m,48,€-35.95m,2018
+40,Ajax Amsterdam,Eredivisie,€52.95m,10,€19.25m,12,€-33.70m,2018
+41,Udinese Calcio,Serie A,€52.90m,44,€13.53m,43,€-39.37m,2018
+42,CD Cruz Azul,Liga MX Clausura,€52.19m,22,€7.77m,20,€-44.43m,2018
+43,Pyramids FC,Premier League,€51.92m,31,€10.82m,38,€-41.10m,2018
+44,SS Lazio,Serie A,€51.28m,27,€38.60m,30,€-12.68m,2018
+45,Huddersfield Town,Premier League,€50.70m,14,€12.33m,16,€-38.37m,2018
+46,Al-Ittihad Club,Saudi Pro League,€49.15m,26,-,29,€-49.15m,2018
+47,Al-Nassr FC,Saudi Pro League,€48.85m,18,€200k,14,€-48.65m,2018
+48,Olympique Lyon,Ligue 1,€46.45m,18,€90.10m,17,€43.65m,2018
+49,VfB Stuttgart,Bundesliga,€45.76m,18,€13.25m,17,€-32.51m,2018
+50,Real Betis Balompié,LaLiga,€44.50m,19,€49.30m,20,€4.80m,2018
+1,Real Madrid,LaLiga,€355.50m,23,€136.80m,22,€-218.70m,2019
+2,FC Barcelona,LaLiga,€298.50m,22,€152.90m,23,€-145.60m,2019
+3,Atlético de Madrid,LaLiga,€247.35m,21,€316.30m,19,€68.95m,2019
+4,Manchester United,Premier League,€236.80m,13,€81.18m,12,€-155.62m,2019
+5,Juventus FC,Serie A,€230.50m,23,€203.14m,24,€-27.36m,2019
+6,SSC Napoli,Serie A,€206.52m,47,€48.72m,43,€-157.80m,2019
+7,AS Monaco,Ligue 1,€200.00m,33,€83.75m,39,€-116.25m,2019
+8,Inter Milan,Serie A,€191.72m,51,€66.74m,48,€-124.98m,2019
+9,Sevilla FC,LaLiga,€188.73m,30,€131.45m,33,€-57.28m,2019
+10,Manchester City,Premier League,€166.82m,24,€71.00m,25,€-95.82m,2019
+11,Arsenal FC,Premier League,€160.80m,16,€53.65m,19,€-107.15m,2019
+12,Aston Villa,Premier League,€159.50m,24,€3.00m,24,€-156.50m,2019
+13,Tottenham Hotspur,Premier League,€150.50m,12,€64.50m,14,€-86.00m,2019
+14,Borussia Dortmund,Bundesliga,€148.50m,17,€132.25m,16,€-16.25m,2019
+15,Bayern Munich,Bundesliga,€139.50m,10,€54.00m,8,€-85.50m,2019
+16,Olympique Lyon,Ligue 1,€126.00m,16,€160.32m,14,€34.32m,2019
+17,AC Milan,Serie A,€124.08m,25,€59.23m,28,€-64.85m,2019
+18,Everton FC,Premier League,€121.00m,22,€87.80m,22,€-33.20m,2019
+19,West Ham United,Premier League,€119.80m,10,€55.48m,17,€-64.32m,2019
+20,AS Roma,Serie A,€117.40m,39,€106.38m,39,€-11.03m,2019
+21,Wolverhampton Wanderers,Premier League,€116.70m,26,€24.10m,24,€-92.60m,2019
+22,Hertha BSC,Bundesliga,€110.70m,15,€23.45m,16,€-87.26m,2019
+23,Leicester City,Premier League,€104.30m,13,€88.50m,13,€-15.80m,2019
+24,LOSC Lille,Ligue 1,€99.40m,18,€151.00m,19,€51.60m,2019
+25,Bayer 04 Leverkusen,Bundesliga,€98.20m,9,€33.50m,10,€-64.70m,2019
+26,Real Betis Balompié,LaLiga,€96.45m,21,€72.00m,19,€-24.45m,2019
+27,Paris Saint-Germain,Ligue 1,€95.00m,21,€105.90m,18,€10.90m,2019
+28,RB Leipzig,Bundesliga,€86.50m,15,€45.25m,13,€-41.25m,2019
+29,Eintracht Frankfurt,Bundesliga,€82.64m,23,€114.80m,26,€32.17m,2019
+30,Valencia CF,LaLiga,€75.00m,24,€56.30m,21,€-18.70m,2019
+31,Newcastle United,Premier League,€72.90m,13,€35.64m,11,€-37.26m,2019
+32,Sheffield United,Premier League,€70.50m,23,€350k,21,€-70.15m,2019
+33,Zenit St. Petersburg,Premier Liga,€68.20m,17,€19.45m,22,€-48.75m,2019
+34,Bologna FC 1909,Serie A,€67.04m,39,€28.68m,42,€-38.36m,2019
+35,US Sassuolo,Serie A,€66.34m,53,€51.95m,52,€-14.38m,2019
+36,UC Sampdoria,Serie A,€65.25m,49,€74.59m,45,€9.34m,2019
+37,SL Benfica,Liga Portugal,€64.75m,22,€240.04m,25,€175.29m,2019
+38,FC Porto,Liga Portugal,€63.25m,27,€88.00m,26,€24.76m,2019
+39,Brighton & Hove Albion,Premier League,€61.74m,25,€8.50m,30,€-53.24m,2019
+40,RCD Espanyol Barcelona,LaLiga,€61.50m,18,€60.00m,15,€-1.50m,2019
+41,Southampton FC,Premier League,€61.50m,14,€27.30m,17,€-34.20m,2019
+42,Atalanta BC,Serie A,€60.06m,79,€105.10m,78,€45.04m,2019
+43,Ajax Amsterdam,Eredivisie,€59.25m,20,€218.20m,17,€158.95m,2019
+44,Stade Rennais FC,Ligue 1,€58.10m,22,€54.50m,22,€-3.60m,2019
+45,ACF Fiorentina,Serie A,€56.54m,48,€15.32m,47,€-41.22m,2019
+46,Watford FC,Premier League,€56.00m,21,€25.40m,21,€-30.60m,2019
+47,TSG 1899 Hoffenheim,Bundesliga,€55.85m,23,€121.40m,23,€65.55m,2019
+48,AFC Bournemouth,Premier League,€54.91m,13,€34.63m,12,€-20.29m,2019
+49,OGC Nice,Ligue 1,€52.20m,15,€23.11m,16,€-29.09m,2019
+50,Genoa CFC,Serie A,€50.37m,74,€66.35m,76,€15.98m,2019
+1,Chelsea FC,Premier League,€247.20m,31,€57.15m,26,€-190.05m,2020
+2,Manchester City,Premier League,€173.40m,25,€64.00m,25,€-109.40m,2020
+3,Juventus FC,Serie A,€158.01m,20,€110.56m,20,€-47.45m,2020
+4,Leeds United,Premier League,€127.80m,16,-,17,€-127.80m,2020
+5,Inter Milan,Serie A,€126.50m,35,€82.95m,40,€-43.55m,2020
+6,SL Benfica,Liga Portugal,€115.00m,28,€81.72m,27,€-33.28m,2020
+7,FC Barcelona,LaLiga,€112.00m,18,€149.80m,15,€37.80m,2020
+8,Tottenham Hotspur,Premier League,€110.50m,15,€13.30m,11,€-97.20m,2020
+9,Parma Calcio 1913,Serie A,€104.33m,58,€4.00m,51,€-100.33m,2020
+10,Aston Villa,Premier League,€101.35m,12,€2.77m,16,€-98.58m,2020
+11,Atlético de Madrid,LaLiga,€91.00m,14,€83.30m,15,€-7.70m,2020
+12,Wolverhampton Wanderers,Premier League,€87.59m,19,€79.20m,22,€-8.39m,2020
+13,Arsenal FC,Premier League,€86.00m,16,€19.15m,16,€-66.85m,2020
+14,Liverpool FC,Premier League,€84.05m,16,€17.20m,13,€-66.85m,2020
+15,Manchester United,Premier League,€83.80m,14,€19.50m,15,€-64.30m,2020
+16,SSC Napoli,Serie A,€77.25m,37,€123.06m,38,€45.81m,2020
+17,Everton FC,Premier League,€74.37m,20,€4.43m,20,€-69.95m,2020
+18,Sevilla FC,LaLiga,€74.35m,22,€19.68m,19,€-54.67m,2020
+19,AS Roma,Serie A,€72.10m,33,€49.00m,32,€-23.10m,2020
+20,Stade Rennais FC,Ligue 1,€70.56m,16,€55.42m,22,€-15.14m,2020
+21,Bayern Munich,Bundesliga,€66.25m,12,€22.25m,13,€-44.00m,2020
+22,Genoa CFC,Serie A,€64.68m,58,€67.29m,61,€2.61m,2020
+23,Ajax Amsterdam,Eredivisie,€63.20m,12,€109.50m,15,€46.30m,2020
+24,Sheffield United,Premier League,€62.70m,16,-,19,€-62.70m,2020
+25,Atalanta BC,Serie A,€62.04m,61,€75.40m,59,€13.37m,2020
+26,Paris Saint-Germain,Ligue 1,€62.00m,15,€400k,16,€-61.60m,2020
+27,Leicester City,Premier League,€59.40m,19,€53.77m,18,€-5.63m,2020
+28,RB Leipzig,Bundesliga,€58.00m,11,€77.50m,13,€19.50m,2020
+29,ACF Fiorentina,Serie A,€55.30m,45,€59.89m,44,€4.59m,2020
+30,West Ham United,Premier League,€54.70m,16,€45.41m,17,€-9.29m,2020
+31,AS Monaco,Ligue 1,€52.70m,32,€13.53m,32,€-39.17m,2020
+32,Borussia Dortmund,Bundesliga,€50.00m,12,€5.50m,10,€-44.50m,2020
+33,Torino FC,Serie A,€46.70m,34,€27.00m,30,€-19.70m,2020
+34,Bayer 04 Leverkusen,Bundesliga,€46.20m,13,€91.00m,7,€44.80m,2020
+35,West Bromwich Albion,Premier League,€42.14m,21,€8.10m,21,€-34.04m,2020
+36,SS Lazio,Serie A,€41.70m,27,€7.85m,28,€-33.85m,2020
+37,LOSC Lille,Ligue 1,€40.43m,15,€104.18m,14,€63.75m,2020
+38,Newcastle United,Premier League,€39.00m,11,€275k,15,€-38.73m,2020
+39,Southampton FC,Premier League,€37.30m,22,€26.30m,18,€-11.00m,2020
+40,Fulham FC,Premier League,€37.25m,23,-,19,€-37.25m,2020
+41,Olympique Lyon,Ligue 1,€36.69m,14,€50.60m,21,€13.91m,2020
+42,Villarreal CF,LaLiga,€36.50m,24,€26.65m,20,€-9.85m,2020
+43,Sporting CP,Liga Portugal,€35.45m,31,€47.88m,31,€12.43m,2020
+44,Cagliari Calcio,Serie A,€34.18m,31,€42.66m,33,€8.48m,2020
+45,Zenit St. Petersburg,Premier Liga,€32.50m,11,€7.77m,13,€-24.74m,2020
+46,CSKA Moscow,Premier Liga,€32.00m,15,€1.25m,13,€-30.75m,2020
+47,AC Milan,Serie A,€31.92m,28,€52.09m,26,€20.17m,2020
+48,Hertha BSC,Bundesliga,€31.25m,18,€10.45m,18,€-20.80m,2020
+49,US Sassuolo,Serie A,€29.66m,37,€62.36m,40,€32.70m,2020
+50,OGC Nice,Ligue 1,€29.23m,25,€20.51m,25,€-8.72m,2020
+1,Arsenal FC,Premier League,€167.40m,12,€31.40m,20,€-136.00m,2021
+2,Manchester United,Premier League,€142.00m,16,€31.10m,13,€-110.90m,2021
+3,Manchester City,Premier League,€138.90m,19,€93.80m,22,€-45.10m,2021
+4,Newcastle United,Premier League,€130.50m,13,-,11,€-130.50m,2021
+5,Aston Villa,Premier League,€129.80m,22,€127.00m,18,€-2.80m,2021
+6,Juventus FC,Serie A,€129.50m,19,€64.03m,17,€-65.47m,2021
+7,AS Roma,Serie A,€127.65m,38,€17.24m,39,€-110.42m,2021
+8,Chelsea FC,Premier League,€118.00m,21,€148.94m,23,€30.94m,2021
+9,RB Leipzig,Bundesliga,€107.62m,18,€113.50m,20,€5.88m,2021
+10,Tottenham Hotspur,Premier League,€95.90m,14,€34.62m,19,€-61.28m,2021
+11,AC Milan,Serie A,€93.11m,28,€5.12m,27,€-87.99m,2021
+12,Paris Saint-Germain,Ligue 1,€91.00m,24,€11.00m,18,€-80.00m,2021
+13,Liverpool FC,Premier League,€87.00m,14,€29.55m,12,€-57.45m,2021
+14,Crystal Palace,Premier League,€85.62m,13,-,16,€-85.62m,2021
+15,Stade Rennais FC,Ligue 1,€81.50m,23,€45.40m,20,€-36.10m,2021
+16,Atlético de Madrid,LaLiga,€80.70m,18,€22.75m,18,€-57.95m,2021
+17,VfL Wolfsburg,Bundesliga,€76.18m,25,€22.70m,22,€-53.48m,2021
+18,Brighton & Hove Albion,Premier League,€75.00m,26,€78.50m,29,€3.50m,2021
+19,West Ham United,Premier League,€74.50m,10,€4.24m,8,€-70.27m,2021
+20,FC Barcelona,LaLiga,€69.50m,19,€70.76m,17,€1.26m,2021
+21,Leicester City,Premier League,€67.60m,11,€4.00m,11,€-63.60m,2021
+22,Atalanta BC,Serie A,€65.20m,68,€48.99m,67,€-16.21m,2021
+23,ACF Fiorentina,Serie A,€64.40m,42,€112.20m,43,€47.80m,2021
+24,Norwich City,Premier League,€63.55m,32,€38.40m,31,€-25.15m,2021
+25,Leeds United,Premier League,€59.30m,12,-,14,€-59.30m,2021
+26,Shakhtar Donetsk,Premier Liga,€58.00m,31,€8.70m,35,€-49.30m,2021
+27,Bayern Munich,Bundesliga,€57.50m,15,€4.00m,13,€-53.50m,2021
+28,Bayer 04 Leverkusen,Bundesliga,€55.35m,12,€43.10m,16,€-12.25m,2021
+29,OGC Nice,Ligue 1,€55.00m,22,€26.05m,23,€-28.95m,2021
+30,Villarreal CF,LaLiga,€54.50m,20,€10.38m,23,€-44.13m,2021
+31,Olympique Marseille,Ligue 1,€54.12m,22,€8.00m,21,€-46.12m,2021
+32,Club Brugge KV,Jupiler Pro League,€54.06m,25,€32.28m,23,€-21.79m,2021
+33,Burnley FC,Premier League,€49.40m,8,€40.50m,6,€-8.90m,2021
+34,Zenit St. Petersburg,Premier Liga,€49.40m,11,€8.90m,10,€-40.50m,2021
+35,AS Monaco,Ligue 1,€45.50m,22,€34.64m,24,€-10.86m,2021
+36,Borussia Dortmund,Bundesliga,€45.00m,10,€109.50m,9,€64.50m,2021
+37,Watford FC,Premier League,€43.50m,31,€12.85m,29,€-30.65m,2021
+38,Southampton FC,Premier League,€43.10m,11,€60.35m,14,€17.25m,2021
+39,Lokomotiv Moscow,Premier Liga,€42.68m,21,€10.49m,20,€-32.19m,2021
+40,FK Krasnodar,Premier Liga,€42.59m,21,€5.65m,21,€-36.94m,2021
+41,Inter Milan,Serie A,€42.55m,34,€205.05m,35,€162.50m,2021
+42,Hellas Verona,Serie A,€42.27m,37,€37.52m,42,€-4.76m,2021
+43,Sevilla FC,LaLiga,€41.50m,17,€28.50m,17,€-13.00m,2021
+44,Everton FC,Premier League,€39.50m,14,€46.00m,15,€6.50m,2021
+45,Genoa CFC,Serie A,€39.10m,73,€18.62m,66,€-20.49m,2021
+46,Wolverhampton Wanderers,Premier League,€37.60m,24,€31.80m,20,€-5.80m,2021
+47,US Sassuolo,Serie A,€37.12m,48,€22.80m,46,€-14.33m,2021
+48,Brentford FC,Premier League,€36.70m,18,€1.00m,15,€-35.70m,2021
+49,FC Porto,Liga Portugal,€35.27m,17,€72.25m,19,€36.98m,2021
+50,Al-Hilal SFC,Saudi Pro League,€33.25m,17,€530k,14,€-32.72m,2021
+1,Chelsea FC,Premier League,€611.49m,24,€67.83m,23,€-543.66m,2022
+2,Manchester United,Premier League,€243.28m,24,€13.25m,18,€-230.03m,2022
+3,Nottingham Forest,Premier League,€195.25m,41,€5.00m,26,€-190.25m,2022
+4,West Ham United,Premier League,€194.00m,12,€21.55m,13,€-172.45m,2022
+5,Arsenal FC,Premier League,€192.36m,23,€23.80m,16,€-168.56m,2022
+6,Newcastle United,Premier League,€185.35m,18,€13.30m,13,€-172.05m,2022
+7,Tottenham Hotspur,Premier League,€177.90m,15,€38.75m,14,€-139.15m,2022
+8,Wolverhampton Wanderers,Premier League,€177.11m,30,€62.87m,26,€-114.24m,2022
+9,FC Barcelona,LaLiga,€158.00m,16,€39.50m,22,€-118.50m,2022
+10,Manchester City,Premier League,€150.50m,24,€162.17m,21,€11.67m,2022
+11,Paris Saint-Germain,Ligue 1,€147.50m,26,€59.30m,34,€-88.20m,2022
+12,Bayern Munich,Bundesliga,€146.50m,18,€104.10m,16,€-42.40m,2022
+13,Leeds United,Premier League,€145.59m,22,€114.50m,18,€-31.09m,2022
+14,Southampton FC,Premier League,€143.65m,21,€5.50m,14,€-138.15m,2022
+15,Liverpool FC,Premier League,€137.30m,8,€80.70m,11,€-56.60m,2022
+16,Olympique Marseille,Ligue 1,€115.40m,24,€37.48m,28,€-77.93m,2022
+17,SL Benfica,Liga Portugal,€114.05m,33,€262.22m,39,€148.17m,2022
+18,Ajax Amsterdam,Eredivisie,€113.10m,21,€216.62m,22,€103.52m,2022
+19,Juventus FC,Serie A,€106.05m,25,€111.08m,24,€5.03m,2022
+20,Borussia Dortmund,Bundesliga,€104.60m,12,€79.50m,11,€-25.10m,2022
+21,Aston Villa,Premier League,€100.14m,23,€54.00m,22,€-46.14m,2022
+22,Atalanta BC,Serie A,€99.90m,76,€106.25m,77,€6.35m,2022
+23,OGC Nice,Ligue 1,€84.00m,28,€44.40m,27,€-39.60m,2022
+24,AFC Bournemouth,Premier League,€83.10m,19,-,13,€-83.10m,2022
+25,Stade Rennais FC,Ligue 1,€80.50m,22,€95.00m,20,€14.50m,2022
+26,Real Madrid,LaLiga,€80.00m,11,€92.15m,12,€12.15m,2022
+27,Everton FC,Premier League,€78.20m,14,€103.60m,17,€25.40m,2022
+28,SSC Napoli,Serie A,€76.05m,34,€80.45m,31,€4.40m,2022
+29,Fulham FC,Premier League,€71.20m,20,€21.90m,21,€-49.30m,2022
+30,RB Leipzig,Bundesliga,€59.50m,26,€75.82m,25,€16.32m,2022
+31,Brighton & Hove Albion,Premier League,€55.73m,21,€137.90m,23,€82.17m,2022
+32,AC Milan,Serie A,€54.77m,30,€11.25m,28,€-43.52m,2022
+33,US Sassuolo,Serie A,€54.28m,47,€75.84m,51,€21.56m,2022
+34,Sporting CP,Liga Portugal,€53.27m,33,€124.80m,27,€71.53m,2022
+35,Real Sociedad,LaLiga,€53.00m,18,€80.50m,16,€27.50m,2022
+36,Udinese Calcio,Serie A,€52.50m,30,€61.80m,28,€9.30m,2022
+37,Brentford FC,Premier League,€51.50m,19,€3.60m,18,€-47.90m,2022
+38,Club Brugge KV,Jupiler Pro League,€50.90m,22,€61.70m,21,€10.80m,2022
+39,FC Porto,Liga Portugal,€50.31m,17,€86.05m,17,€35.74m,2022
+40,Leicester City,Premier League,€48.00m,10,€81.40m,9,€33.40m,2022
+41,Galatasaray,Süper Lig,€46.94m,40,€14.50m,41,€-32.44m,2022
+42,AC Monza,Serie A,€46.66m,33,€185k,34,€-46.48m,2022
+43,Crystal Palace,Premier League,€46.60m,12,€5.46m,11,€-41.15m,2022
+44,US Salernitana 1919,Serie A,€45.60m,46,€21.50m,54,€-24.10m,2022
+45,Fenerbahce,Süper Lig,€43.76m,28,€30.05m,30,€-13.71m,2022
+46,AS Monaco,Ligue 1,€43.50m,20,€156.20m,21,€112.70m,2022
+47,Burnley FC,Championship,€43.20m,31,€76.46m,30,€33.26m,2022
+48,Inter Milan,Serie A,€42.60m,46,€8.05m,44,€-34.55m,2022
+49,Hellas Verona,Serie A,€40.00m,45,€34.32m,40,€-5.68m,2022
+50,SS Lazio,Serie A,€39.80m,35,€42.25m,36,€2.45m,2022
