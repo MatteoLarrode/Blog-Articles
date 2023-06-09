@@ -38,7 +38,7 @@ club_spending_df <- spending_df %>%
   filter(`#` <= 15)%>%
   #only keep big 5 clubs
   filter(Competition %in% big5)%>%
-  filter(!(Club %in% socios))%>%
+  #filter(!(Club %in% socios))%>%
   #fix Inter Milan
   mutate(Club = ifelse(Club == "FC Internazionale", "Inter Milan", Club))
 
@@ -48,25 +48,40 @@ league_spending_df <- club_spending_df %>%
   summarise(Spending = sum(Expenditure), .groups = "keep")%>%
   ungroup()
 
-
 # add info about owner ---------------
 
 club_spending_simple_df <- club_spending_df %>%
-  select(`#`, Club, Expenditure, Year)
+  select(`#`, Club, Expenditure, Income, Year)
 
 #join dataset on club and year
 final_df <- left_join(club_spending_simple_df, owners_df, join_by("Club", "Year"))%>%
   filter(!is.na(Nationality))
 
-write_xlsx(final_df, "final_df.xlsx")
+
+# final tweaks ------------
 
 #group by majority shareholder nationality
 nationality_spending_df <- final_df  %>%
   mutate(Nationality = case_when(
-    Nationality %in% local_owners ~ "Local Majority Shareholder",
+    Nationality %in% local_owners ~ Nationality,
     Nationality %in% foreign_owners_MENA ~ Nationality,
     Nationality %in% foreign_owners_else ~ Nationality,
     TRUE ~ "Other"
   ))%>%
   group_by(Nationality, Year)%>%
-  summarise(Spending = sum(Expenditure))
+  summarise(Spending = sum(Expenditure))%>%
+  ungroup()%>%
+  complete(Nationality, Year, fill = list(Spending = 0))
+
+
+
+
+
+#TEST
+
+test_df <- club_spending_simple_df%>%
+  filter(!is.na(Income))%>%
+  group_by(Year)%>%
+  summarise(Spending = sum(Expenditure),
+            Income = sum(Income))%>%
+  mutate(Diff = Spending - Income)

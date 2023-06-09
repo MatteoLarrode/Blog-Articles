@@ -1,5 +1,4 @@
 # Visualizations
-
 library(tidyverse)
 library(ggsankey)
 library(ggstream)
@@ -11,12 +10,11 @@ foreign_invest_sankey <- ggplot(nationality_spending_df, aes(x = Year,
                                     node = Nationality, 
                                     fill = Nationality, 
                                     value = Spending)) +
-  geom_sankey_bump(space = 0, 
-                   type = "alluvial", 
+  geom_sankey_bump(space = 1,
                    color = "transparent", 
-                   smooth = 6) +
-  scale_fill_viridis_d(option = "A", 
-                       alpha = .8) +
+                   smooth = 6,
+                   alpha = 0.8) +
+  scale_fill_viridis_d(option = "A") +
   scale_y_continuous(position = "right",
                      labels = scales::dollar_format(prefix = "€", suffix = " k million", scale = 1e-3),
                      breaks = seq(1e3, 3e3, by = 1e3))+
@@ -70,8 +68,8 @@ foreign_invest_sankey2
 
 #line graph
 foreign_invest_line <- ggplot(nationality_spending_df, 
-                              aes(Year, Spending, col = Nationality)) +
-  geom_line() +
+                              aes(Year, Spending, fill = Nationality)) +
+  geom_bar(stat = "identity", position = "dodge") +
   scale_fill_viridis_d(option = "A", alpha = .8) +
   labs(x = NULL,
        y = "Expenditures (€ mn)",
@@ -144,3 +142,19 @@ league_sankey2 <- ggplot(league_spending_df, aes(Year, Spending,
   labs(title = "Spending of Big 5 European Football Leagues (2012-2023)")
 
 league_sankey2
+
+
+
+#Club spending ---------------
+
+club_line <- ggplot(club_spending_df, aes(Year, Expenditure, colour = Club))+
+  geom_line()
+
+
+club_line
+
+
+
+#Spending & Income ------------
+
+plot_new <- ggplot(club)
