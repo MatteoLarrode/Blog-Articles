@@ -1,5 +1,4 @@
 # Web Scrape Club Transfers from Transfermarkt
-
 library(rvest)
 library(tidyverse)
 
