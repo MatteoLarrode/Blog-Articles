@@ -79,14 +79,15 @@ plot <- ggplot(pl_net_spend_year) +
   
   geom_text(aes(x = (Income + Expenditure) / 2, 
                 y = Season, 
-                label = paste0("€", round((Net_Spend/1000), 2)," bn")),
-            color = greyLine, size = 2.5, vjust = -.7) + 
+                label = paste0("", round((Net_Spend/1000), 2),"")),
+            color = greyLine, size = 2.5, vjust = -.7, fontface = "bold") +
   
-  labs(title = "Net Spend in the Premier League",
+  labs(title = "Record Shopping Spree for Premier League Clubs",
        subtitle = "Total transfer
-       <span style = 'color: #017480'>**Income**</span> and 
-       <span style = 'color: #f6423c'>**Expenditure**</span> 
-      Premier League clubs over last 10 seasons, €bn",
+       <span style = 'color: #017480'>**Income**</span>, 
+       <span style = 'color: #f6423c'>**Expenditure**</span>, and
+       <span style = 'color: #858585'>**Net Spend**</span>
+       by Premier League clubs over last 10 seasons, €bn",
        caption = "Source: Transfermarkt",
        x = NULL,
        y = NULL)+
@@ -95,7 +96,7 @@ plot <- ggplot(pl_net_spend_year) +
   scale_x_continuous(labels = scales::label_number(scale = 1e-3),
                      breaks = seq(500, 4000, by = 500))+
   theme(text = element_text(family = "Roboto Condensed"),
-        plot.margin = margin(t = 0.5, r = 0.5, b = 0, l = 0.5, unit = "cm"),
+        plot.margin = margin(t = 0.5, r = 0, b = 0, l = 0, unit = "cm"),
         plot.background = element_rect(fill = "white"),
         panel.background = element_rect(fill = "white"),
         panel.grid.major.x =  element_blank(),
@@ -105,14 +106,11 @@ plot <- ggplot(pl_net_spend_year) +
         axis.text = element_text(size = rel(0.7), color = "gray8"),
         axis.line.x  = element_line(color = "gray8"),
         axis.ticks.y = element_blank(),
-        plot.title = element_text(size = rel(1.1), hjust = -0.14, face = "bold"),
-        plot.subtitle = element_markdown(hjust = 14),
-        plot.caption = element_text(hjust = -0.1, vjust = 5, size = 7, colour = "#4B4B4B"))
-
-
+        plot.title = element_text(size = rel(1.1), hjust = -0.18, face = "bold"),
+        plot.subtitle = element_markdown(hjust = 1.8, size = rel(0.95)),
+        plot.caption = element_text(hjust = -0.09, vjust = 5, size = 7, colour = "#4B4B4B"))
 
 plot
-
 
 
 
