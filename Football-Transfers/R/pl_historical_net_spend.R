@@ -1,5 +1,8 @@
 # Idea 3: Premier League Net Spend, Through the Years
 library(tidyverse)
+library(camcorder)
+library(scales)
+library(ggtext) 
 
 # Data Wrangling -----------
 
@@ -27,8 +30,96 @@ pl_net_spend_year <- pl_net_spend_df %>%
   summarise(Expenditure = sum(Expenditure_in_millions),
             Income = sum(Income_in_millions),
             Net_Spend = sum(Net_Spend))%>%
-  ungroup()
+  ungroup()%>%
+  mutate(Season = as.factor(paste0(as.character(Year), "/", substr(as.character(Year+1), 3, 4))))
+
+
+
 
 
 # Data Viz --------------
 
+redPoint <- "#f6423c"
+bluePoint <- "#017480"
+greyLine <- "#858585"
+
+
+gg_record(
+  dir = "recording_plot", # where to save the recording
+  device = "png", # device to use to save images
+  width = 6,      # width of saved image
+  height = 4,     # height of saved image
+  units = "in",   # units for width and height
+  dpi = 300       # dpi to use when saving image
+)
+
+gg_resize_film(
+  width = 6,
+  height = 4,
+  units = "in",
+  dpi = 350
+)
+
+
+
+
+plot <- ggplot(pl_net_spend_year) +
+  geom_segment(aes(x = Income, 
+                   y = Season,
+                   xend = Expenditure,
+                   yend = Season),
+               color = greyLine, linewidth = 0.6, alpha = 1) +
+  geom_segment(aes(x = 0, 
+                   y = Season,
+                   xend = Income,
+                   yend = Season),
+               color = greyLine, linewidth = 0.1, alpha = 1) +
+  geom_point(aes(x = Income, y = Season), color=bluePoint, size=2)+
+  geom_point(aes(x = Expenditure , y = Season), color=redPoint, size=2)+
+  
+  geom_text(aes(x = (Income + Expenditure) / 2, 
+                y = Season, 
+                label = paste0("€", round((Net_Spend/1000), 2)," bn")),
+            color = greyLine, size = 2.5, vjust = -.7) + 
+  
+  labs(title = "Net Spend in the Premier League",
+       subtitle = "Total transfer
+       <span style = 'color: #017480'>**Income**</span> and 
+       <span style = 'color: #f6423c'>**Expenditure**</span> 
+      Premier League clubs over last 10 seasons, €bn",
+       caption = "Source: Transfermarkt",
+       x = NULL,
+       y = NULL)+
+  
+  scale_y_discrete(limits = rev(levels(pl_net_spend_year$Season)))+
+  scale_x_continuous(labels = scales::label_number(scale = 1e-3),
+                     breaks = seq(500, 4000, by = 500))+
+  theme(text = element_text(family = "Roboto Condensed"),
+        plot.margin = margin(t = 0.5, r = 0.5, b = 0, l = 0.5, unit = "cm"),
+        plot.background = element_rect(fill = "white"),
+        panel.background = element_rect(fill = "white"),
+        panel.grid.major.x =  element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        axis.text = element_text(size = rel(0.7), color = "gray8"),
+        axis.line.x  = element_line(color = "gray8"),
+        axis.ticks.y = element_blank(),
+        plot.title = element_text(size = rel(1.1), hjust = -0.14, face = "bold"),
+        plot.subtitle = element_markdown(hjust = 14),
+        plot.caption = element_text(hjust = -0.1, vjust = 5, size = 7, colour = "#4B4B4B"))
+
+
+
+plot
+
+
+
+
+gg_playback(
+  name = "recording_plot/vignette_gif.gif",
+  first_image_duration = 5,
+  last_image_duration = 15,
+  frame_duration = .4,
+  image_resize = 800
+)
