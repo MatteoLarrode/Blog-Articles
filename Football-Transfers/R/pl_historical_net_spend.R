@@ -121,7 +121,7 @@ plot <- ggplot(pl_net_spend_year) +
 plot
 
 
-
+gg_stop_recording()
 
 gg_playback(
   name = "recording_plot/vignette_gif.gif",
