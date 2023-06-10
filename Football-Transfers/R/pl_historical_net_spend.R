@@ -3,6 +3,7 @@ library(tidyverse)
 library(camcorder)
 library(scales)
 library(ggtext) 
+library(grid)
 
 # Data Wrangling -----------
 
@@ -44,6 +45,7 @@ bluePoint <- "#017480"
 greyLine <- "#858585"
 
 
+
 gg_record(
   dir = "recording_plot", # where to save the recording
   device = "png", # device to use to save images
@@ -61,6 +63,11 @@ gg_resize_film(
 )
 
 
+chelsea <- grobTree(textGrob("The 2022/2023 season set a new record \nfor net transfer expenditure, with Chelsea's\n€611.5m spent under new American owner\nTodd Boehly (37% of total league spend)", 
+                             x=0.65,  y=0.23, hjust=0,
+                             gp=gpar(col="#858585", 
+                                     fontsize=7,
+                                     family = "Roboto Condensed")))
 
 
 plot <- ggplot(pl_net_spend_year) +
@@ -108,9 +115,11 @@ plot <- ggplot(pl_net_spend_year) +
         axis.ticks.y = element_blank(),
         plot.title = element_text(size = rel(1.1), hjust = -0.18, face = "bold"),
         plot.subtitle = element_markdown(hjust = 1.8, size = rel(0.95)),
-        plot.caption = element_text(hjust = -0.09, vjust = 5, size = 7, colour = "#4B4B4B"))
+        plot.caption = element_text(hjust = -0.09, vjust = 5, size = 7, colour = "#4B4B4B"))+
+  annotation_custom(chelsea)
 
 plot
+
 
 
 
@@ -118,6 +127,5 @@ gg_playback(
   name = "recording_plot/vignette_gif.gif",
   first_image_duration = 5,
   last_image_duration = 15,
-  frame_duration = .4,
-  image_resize = 800
+  frame_duration = .2,
 )
